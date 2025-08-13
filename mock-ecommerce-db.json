@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "productName": "Cricket Bat",
+      "sellers": [
+        { "sellerName": "Amazon Sports Pro", "platform": "Amazon", "price": 380, "rating": 4.5, "reviews": 1200, "productURL": "https://www.amazon.in/dp/B08J9S4T7J" },
+        { "sellerName": "Amazon Value Deals", "platform": "Amazon", "price": 300, "rating": 2.1, "reviews": 450, "productURL": "https://www.amazon.in/dp/B078B4254P" },
+        { "sellerName": "Flipkart Pro Bat Store", "platform": "Flipkart", "price": 420, "rating": 4.8, "reviews": 850, "productURL": "https://www.flipkart.com/p/itmfgzj3z3y2gzy2" },
+        { "sellerName": "Flipkart Super Savers", "platform": "Flipkart", "price": 350, "rating": 4.1, "reviews": 950, "productURL": "https://www.flipkart.com/p/itmfh2z3z3y2gzy3" },
+        { "sellerName": "Flipkart Cricket Hub", "platform": "Flipkart", "price": 390, "rating": 4.6, "reviews": 1100, "productURL": "https://www.flipkart.com/p/itmfh3z3z3y2gzy4" },
+        { "sellerName": "Bargain Bats", "platform": "Amazon", "price": 150, "rating": 4.9, "reviews": 12, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Wireless Headphones",
+      "sellers": [
+        { "sellerName": "Amazon ElectroGadgets", "platform": "Amazon", "price": 2500, "rating": 4.6, "reviews": 8500, "productURL": "https://www.amazon.in/dp/B07X9V8Q9J" },
+        { "sellerName": "Amazon Cheap & Best", "platform": "Amazon", "price": 1800, "rating": 3.1, "reviews": 1500, "productURL": "https://www.amazon.in/dp/B083X6B8B3" },
+        { "sellerName": "Flipkart Audio King", "platform": "Flipkart", "price": 2200, "rating": 4.2, "reviews": 3200, "productURL": "https://www.flipkart.com/p/itmfh4z3z3y2gzy5" },
+        { "sellerName": "Flipkart SoundWave", "platform": "Flipkart", "price": 2800, "rating": 4.8, "reviews": 12000, "productURL": "https://www.flipkart.com/p/itmfh5z3z3y2gzy6" },
+        { "sellerName": "Flipkart Music Mania", "platform": "Flipkart", "price": 2400, "rating": 4.4, "reviews": 6000, "productURL": "https://www.flipkart.com/p/itmfh6z3z3y2gzy7" },
+        { "sellerName": "Just Sounds", "platform": "Flipkart", "price": 999, "rating": 4.5, "reviews": 25, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Mechanical Keyboard",
+      "sellers": [
+        { "sellerName": "Amazon Gamer's Hub", "platform": "Amazon", "price": 4500, "rating": 4.8, "reviews": 2500, "productURL": "https://www.amazon.in/dp/B089D34SDB" },
+        { "sellerName": "Amazon Office Tech", "platform": "Amazon", "price": 4000, "rating": 4.4, "reviews": 1200, "productURL": "https://www.amazon.in/dp/B08C5W6K8P" },
+        { "sellerName": "Flipkart Clicky Keys Co.", "platform": "Flipkart", "price": 4800, "rating": 4.7, "reviews": 1800, "productURL": "https://www.flipkart.com/p/itmfh7z3z3y2gzy8" },
+        { "sellerName": "Flipkart Pro Gaming", "platform": "Flipkart", "price": 5200, "rating": 4.9, "reviews": 3000, "productURL": "https://www.flipkart.com/p/itmfh8z3z3y2gzy9" },
+        { "sellerName": "Flipkart Budget Boards", "platform": "Flipkart", "price": 3800, "rating": 4.1, "reviews": 900, "productURL": "https://www.flipkart.com/p/itmfh9z3z3y2gzya" },
+        { "sellerName": "QuickType Scams", "platform": "Amazon", "price": 1500, "rating": 2.2, "reviews": 60, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Laptop",
+      "sellers": [
+        { "sellerName": "Amazon TechGiant", "platform": "Amazon", "price": 85000, "rating": 4.7, "reviews": 1500, "productURL": "https://www.amazon.in/dp/B08L5T41V5" },
+        { "sellerName": "Amazon Budget PCs", "platform": "Amazon", "price": 75000, "rating": 4.1, "reviews": 400, "productURL": "https://www.amazon.in/dp/B08L5V1R1B" },
+        { "sellerName": "Flipkart Office World", "platform": "Flipkart", "price": 82000, "rating": 4.6, "reviews": 950, "productURL": "https://www.flipkart.com/p/itmfhaz3z3y2gzyb" },
+        { "sellerName": "Flipkart Digital Dreams", "platform": "Flipkart", "price": 88000, "rating": 4.8, "reviews": 1100, "productURL": "https://www.flipkart.com/p/itmfhbz3z3y2gzyc" },
+        { "sellerName": "Flipkart Student Deals", "platform": "Flipkart", "price": 79000, "rating": 4.4, "reviews": 750, "productURL": "https://www.flipkart.com/p/itmfhcz3z3y2gzyd" },
+        { "sellerName": "TooGoodToBeTrue Deals", "platform": "Amazon", "price": 45000, "rating": 4.9, "reviews": 5, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Smartphone",
+      "sellers": [
+        { "sellerName": "Amazon Gadget Central", "platform": "Amazon", "price": 25500, "rating": 4.6, "reviews": 18500, "productURL": "https://www.amazon.in/dp/B07C4T3X1Y" },
+        { "sellerName": "Amazon Mobile Pro", "platform": "Amazon", "price": 27000, "rating": 4.7, "reviews": 15000, "productURL": "https://www.amazon.in/dp/B07C4V5Z3Z" },
+        { "sellerName": "Flipkart Mobile Universe", "platform": "Flipkart", "price": 25000, "rating": 4.5, "reviews": 22000, "productURL": "https://www.flipkart.com/p/itmfhdz3z3y2gzye" },
+        { "sellerName": "Flipkart Everyday Electronics", "platform": "Flipkart", "price": 23000, "rating": 4.2, "reviews": 15000, "productURL": "https://www.flipkart.com/p/itmfhez3z3y2gzyf" },
+        { "sellerName": "Flipkart MegaMobiles", "platform": "Flipkart", "price": 26000, "rating": 4.6, "reviews": 19000, "productURL": "https://www.flipkart.com/p/itmfhfz3z3y2gzyg" },
+        { "sellerName": "Shady Sells", "platform": "Flipkart", "price": 15000, "rating": 2.5, "reviews": 150, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Running Shoes",
+      "sellers": [
+        { "sellerName": "Amazon Athlete's Choice", "platform": "Amazon", "price": 2800, "rating": 4.7, "reviews": 9500, "productURL": "https://www.amazon.in/dp/B07C4T3X1Y" },
+        { "sellerName": "Amazon Daily Run", "platform": "Amazon", "price": 2200, "rating": 4.1, "reviews": 5500, "productURL": "https://www.amazon.in/dp/B07C4V5Z3Z" },
+        { "sellerName": "Flipkart Quick Kicks", "platform": "Flipkart", "price": 2500, "rating": 4.6, "reviews": 11000, "productURL": "https://www.flipkart.com/p/itmfhdz3z3y2gzye" },
+        { "sellerName": "Flipkart Sports Station", "platform": "Flipkart", "price": 3100, "rating": 4.8, "reviews": 8000, "productURL": "https://www.flipkart.com/p/itmfhez3z3y2gzyf" },
+        { "sellerName": "Flipkart FitFeet", "platform": "Flipkart", "price": 2650, "rating": 4.5, "reviews": 9800, "productURL": "https://www.flipkart.com/p/itmfhfz3z3y2gzyg" },
+        { "sellerName": "Discount Dashers", "platform": "Amazon", "price": 950, "rating": 2.9, "reviews": 88, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Smartwatch",
+      "sellers": [
+        { "sellerName": "Amazon FitTech", "platform": "Amazon", "price": 4500, "rating": 4.4, "reviews": 9800, "productURL": "https://www.amazon.in/dp/B08J9S4T7J" },
+        { "sellerName": "Amazon Wearable World", "platform": "Amazon", "price": 4800, "rating": 4.5, "reviews": 8000, "productURL": "https://www.amazon.in/dp/B078B4254P" },
+        { "sellerName": "Flipkart TimeKeepers", "platform": "Flipkart", "price": 4200, "rating": 4.3, "reviews": 7600, "productURL": "https://www.flipkart.com/p/itmfgzj3z3y2gzy2" },
+        { "sellerName": "Flipkart GadgetGo", "platform": "Flipkart", "price": 3900, "rating": 4.1, "reviews": 6500, "productURL": "https://www.flipkart.com/p/itmfh2z3z3y2gzy3" },
+        { "sellerName": "Flipkart SmartLife", "platform": "Flipkart", "price": 5200, "rating": 4.7, "reviews": 11000, "productURL": "https://www.flipkart.com/p/itmfh3z3z3y2gzy4" },
+        { "sellerName": "Risk-Free Watches", "platform": "Flipkart", "price": 1200, "rating": 3.1, "reviews": 55, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Bluetooth Speaker",
+      "sellers": [
+        { "sellerName": "Amazon BoomBox", "platform": "Amazon", "price": 1500, "rating": 4.7, "reviews": 15000, "productURL": "https://www.amazon.in/dp/B07X9V8Q9J" },
+        { "sellerName": "Amazon Audio Deals", "platform": "Amazon", "price": 1200, "rating": 3.9, "reviews": 5000, "productURL": "https://www.amazon.in/dp/B083X6B8B3" },
+        { "sellerName": "Flipkart Soundify", "platform": "Flipkart", "price": 1350, "rating": 4.5, "reviews": 12500, "productURL": "https://www.flipkart.com/p/itmfh4z3z3y2gzy5" },
+        { "sellerName": "Flipkart Party Starter", "platform": "Flipkart", "price": 1600, "rating": 4.6, "reviews": 13000, "productURL": "https://www.flipkart.com/p/itmfh5z3z3y2gzy6" },
+        { "sellerName": "Flipkart MusicBox", "platform": "Flipkart", "price": 1100, "rating": 4.2, "reviews": 9000, "productURL": "https://www.flipkart.com/p/itmfh6z3z3y2gzy7" },
+        { "sellerName": "Super Sound Steals", "platform": "Amazon", "price": 500, "rating": 4.8, "reviews": 15, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Coffee Maker",
+      "sellers": [
+        { "sellerName": "Amazon Kitchen Pro", "platform": "Amazon", "price": 2800, "rating": 4.6, "reviews": 3400, "productURL": "https://www.amazon.in/dp/B089D34SDB" },
+        { "sellerName": "Amazon Morning Brew", "platform": "Amazon", "price": 2500, "rating": 4.4, "reviews": 2800, "productURL": "https://www.amazon.in/dp/B08C5W6K8P" },
+        { "sellerName": "Flipkart Home Essentials", "platform": "Flipkart", "price": 2650, "rating": 4.5, "reviews": 2900, "productURL": "https://www.flipkart.com/p/itmfh7z3z3y2gzy8" },
+        { "sellerName": "Flipkart Cafe Corner", "platform": "Flipkart", "price": 3100, "rating": 4.7, "reviews": 4000, "productURL": "https://www.flipkart.com/p/itmfh8z3z3y2gzy9" },
+        { "sellerName": "Flipkart Daily Grind", "platform": "Flipkart", "price": 2400, "rating": 4.3, "reviews": 2500, "productURL": "https://www.flipkart.com/p/itmfh9z3z3y2gzya" },
+        { "sellerName": "Dodgy Appliances", "platform": "Flipkart", "price": 1100, "rating": 2.8, "reviews": 70, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Air Fryer",
+      "sellers": [
+        { "sellerName": "Amazon Appliance Mart", "platform": "Amazon", "price": 5800, "rating": 4.7, "reviews": 5900, "productURL": "https://www.amazon.in/dp/B08L5T41V5" },
+        { "sellerName": "Amazon Crisp & Cook", "platform": "Amazon", "price": 5200, "rating": 4.5, "reviews": 4500, "productURL": "https://www.amazon.in/dp/B08L5V1R1B" },
+        { "sellerName": "Flipkart Healthy Kitchen", "platform": "Flipkart", "price": 5500, "rating": 4.8, "reviews": 6500, "productURL": "https://www.flipkart.com/p/itmfhaz3z3y2gzyb" },
+        { "sellerName": "Flipkart Air Crisp", "platform": "Flipkart", "price": 6100, "rating": 4.9, "reviews": 7200, "productURL": "https://www.flipkart.com/p/itmfhbz3z3y2gzyc" },
+        { "sellerName": "Flipkart Kitchen Magic", "platform": "Flipkart", "price": 5000, "rating": 4.4, "reviews": 4000, "productURL": "https://www.flipkart.com/p/itmfhcz3z3y2gzyd" },
+        { "sellerName": "Unreal Deals", "platform": "Amazon", "price": 2500, "rating": 4.9, "reviews": 3, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "T-Shirt",
+      "sellers": [
+        { "sellerName": "Amazon Fashion Forward", "platform": "Amazon", "price": 499, "rating": 4.2, "reviews": 8000, "productURL": "https://www.amazon.in/dp/B07C4T3X1Y" },
+        { "sellerName": "Amazon Budget Threads", "platform": "Amazon", "price": 299, "rating": 3.5, "reviews": 4000, "productURL": "https://www.amazon.in/dp/B07C4V5Z3Z" },
+        { "sellerName": "Flipkart Style Hub", "platform": "Flipkart", "price": 449, "rating": 4.1, "reviews": 7500, "productURL": "https://www.flipkart.com/p/itmfhdz3z3y2gzye" },
+        { "sellerName": "Flipkart Classic Tees", "platform": "Flipkart", "price": 549, "rating": 4.4, "reviews": 9000, "productURL": "https://www.flipkart.com/p/itmfhez3z3y2gzyf" },
+        { "sellerName": "Flipkart Daily Wear", "platform": "Flipkart", "price": 399, "rating": 4.0, "reviews": 6500, "productURL": "https://www.flipkart.com/p/itmfhfz3z3y2gzyg" },
+        { "sellerName": "Sketchy Styles", "platform": "Flipkart", "price": 99, "rating": 2.1, "reviews": 110, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Backpack",
+      "sellers": [
+        { "sellerName": "Amazon Adventure Gear", "platform": "Amazon", "price": 1200, "rating": 4.8, "reviews": 13000, "productURL": "https://www.amazon.in/dp/B08J9S4T7J" },
+        { "sellerName": "Amazon Urban Packer", "platform": "Amazon", "price": 1050, "rating": 4.4, "reviews": 8000, "productURL": "https://www.amazon.in/dp/B078B4254P" },
+        { "sellerName": "Flipkart Travel Smart", "platform": "Flipkart", "price": 999, "rating": 4.5, "reviews": 10500, "productURL": "https://www.flipkart.com/p/itmfgzj3z3y2gzy2" },
+        { "sellerName": "Flipkart Go-Bags", "platform": "Flipkart", "price": 1300, "rating": 4.7, "reviews": 11000, "productURL": "https://www.flipkart.com/p/itmfh2z3z3y2gzy3" },
+        { "sellerName": "Flipkart Hiker's Friend", "platform": "Flipkart", "price": 1100, "rating": 4.6, "reviews": 9500, "productURL": "https://www.flipkart.com/p/itmfh3z3z3y2gzy4" },
+        { "sellerName": "QuickScam Bags", "platform": "Amazon", "price": 400, "rating": 4.6, "reviews": 4, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Yoga Mat",
+      "sellers": [
+        { "sellerName": "Amazon Zen Garden", "platform": "Amazon", "price": 800, "rating": 4.9, "reviews": 7000, "productURL": "https://www.amazon.in/dp/B07X9V8Q9J" },
+        { "sellerName": "Amazon Cheap Mats Inc", "platform": "Amazon", "price": 450, "rating": 2.8, "reviews": 2000, "productURL": "https://www.amazon.in/dp/B083X6B8B3" },
+        { "sellerName": "Flipkart Fitness First", "platform": "Flipkart", "price": 750, "rating": 4.7, "reviews": 6500, "productURL": "https://www.flipkart.com/p/itmfh4z3z3y2gzy5" },
+        { "sellerName": "Flipkart Calm Canvas", "platform": "Flipkart", "price": 900, "rating": 4.8, "reviews": 5000, "productURL": "https://www.flipkart.com/p/itmfh5z3z3y2gzy6" },
+        { "sellerName": "Flipkart Stretch & Co", "platform": "Flipkart", "price": 650, "rating": 4.5, "reviews": 5500, "productURL": "https://www.flipkart.com/p/itmfh6z3z3y2gzy7" },
+        { "sellerName": "Flimsy Mats", "platform": "Flipkart", "price": 250, "rating": 2.4, "reviews": 95, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Water Bottle",
+      "sellers": [
+        { "sellerName": "Amazon HydroFlaskers", "platform": "Amazon", "price": 600, "rating": 4.8, "reviews": 15000, "productURL": "https://www.amazon.in/dp/B089D34SDB" },
+        { "sellerName": "Amazon Aqua Pure", "platform": "Amazon", "price": 450, "rating": 4.5, "reviews": 11000, "productURL": "https://www.amazon.in/dp/B08C5W6K8P" },
+        { "sellerName": "Flipkart Hydrate Hub", "platform": "Flipkart", "price": 550, "rating": 4.7, "reviews": 13000, "productURL": "https://www.flipkart.com/p/itmfh7z3z3y2gzy8" },
+        { "sellerName": "Flipkart Go-Sip", "platform": "Flipkart", "price": 400, "rating": 4.3, "reviews": 9000, "productURL": "https://www.flipkart.com/p/itmfh8z3z3y2gzy9" },
+        { "sellerName": "Flipkart Eco-Friendly Bottles", "platform": "Flipkart", "price": 700, "rating": 4.9, "reviews": 18000, "productURL": "https://www.flipkart.com/p/itmfh9z3z3y2gzya" },
+        { "sellerName": "Leaky Bottles Ltd.", "platform": "Amazon", "price": 150, "rating": 1.9, "reviews": 65, "productURL": "#" }
+      ]
+    },
+    {
+      "productName": "Gaming Mouse",
+      "sellers": [
+        { "sellerName": "Amazon Pro-Aim", "platform": "Amazon", "price": 2200, "rating": 4.7, "reviews": 6000, "productURL": "https://www.amazon.in/dp/B08L5T41V5" },
+        { "sellerName": "Amazon ClickFast", "platform": "Amazon", "price": 1800, "rating": 4.4, "reviews": 4500, "productURL": "https://www.amazon.in/dp/B08L5V1R1B" },
+        { "sellerName": "Flipkart Speed Demon", "platform": "Flipkart", "price": 2400, "rating": 4.8, "reviews": 7000, "productURL": "https://www.flipkart.com/p/itmfhaz3z3y2gzyb" },
+        { "sellerName": "Flipkart Gamer's Edge", "platform": "Flipkart", "price": 2000, "rating": 4.6, "reviews": 5500, "productURL": "https://www.flipkart.com/p/itmfhbz3z3y2gzyc" },
+        { "sellerName": "Flipkart Budget Gaming", "platform": "Flipkart", "price": 1500, "rating": 4.1, "reviews": 3000, "productURL": "https://www.flipkart.com/p/itmfhcz3z3y2gzyd" },
+        { "sellerName": "Ghost Click Gaming", "platform": "Flipkart", "price": 800, "rating": 4.5, "reviews": 10, "productURL": "#" }
+      ]
+    }
+  ]
+}

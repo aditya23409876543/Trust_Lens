@@ -1,0 +1,20 @@
+{
+  "products": [
+    { "id": 1, "name": "Wireless Noise-Cancelling Headphones" },
+    { "id": 2, "name": "Mechanical Gaming Keyboard" },
+    { "id": 3, "name": "4K Ultra HD Monitor" }
+  ],
+  "sellers": [
+    { "id": 101, "name": "ElectroGadgets Inc." },
+    { "id": 102, "name": "TechBazaar" },
+    { "id": 103, "name": "CyberDeals" }
+  ],
+  "feedback": [
+    { "id": 1, "buyerId": 1001, "productId": 1, "sellerId": 101, "rating": 5, "comment": "Amazing sound quality!", "date": "2025-08-10" },
+    { "id": 2, "buyerId": 1002, "productId": 1, "sellerId": 102, "rating": 3, "comment": "Battery life could be better.", "date": "2025-08-11" },
+    { "id": 3, "buyerId": 1003, "productId": 2, "sellerId": 101, "rating": 5, "comment": "Best keyboard I've ever used.", "date": "2025-08-11" },
+    { "id": 4, "buyerId": 1004, "productId": 3, "sellerId": 103, "rating": 1, "comment": "Arrived broken. Very poor service from this seller.", "date": "2025-08-12" },
+    { "id": 5, "buyerId": 1005, "productId": 3, "sellerId": 102, "rating": 2, "comment": "The monitor has dead pixels.", "date": "2025-08-12" },
+    { "id": 6, "buyerId": 1006, "productId": 1, "sellerId": 101, "rating": 4, "comment": "Good, but a bit pricey.", "date": "2025-08-13" }
+  ]
+}
